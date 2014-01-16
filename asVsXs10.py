@@ -3,6 +3,7 @@
 ## differences in mappability to multiple positions in the genome
 import sys
 
+# TODO: ensure line by line processing
 #line = sys.stdin.readlines()
 thresh = 10
 
