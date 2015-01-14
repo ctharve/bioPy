@@ -1,1 +1,3 @@
-# python scripts for bioinformatics data munging & Next-gen sequence analysis
+# python scripts Next-gen sequence analysisi
+
+Scripts for working & work-in-progress bioinformatics pipelines. 
