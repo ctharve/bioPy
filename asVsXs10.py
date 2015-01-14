@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+r! /usr/bin/env python
 ## filter  reads lacking sufficient
 ## differences in mappability to multiple positions in the genome
 import sys
